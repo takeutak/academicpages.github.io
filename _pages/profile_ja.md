@@ -1,5 +1,5 @@
 ---
-permalink: /profile_ja
+permalink: /profile_ja/
 title: "Takuma Takeuchi / 竹内琢磨"
 excerpt: "Profile_ja"
 author_profile: true
