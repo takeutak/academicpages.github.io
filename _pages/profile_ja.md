@@ -8,7 +8,7 @@ redirect_from:
   - /profile_ja.html
 ---
 
-私はブロックチェーン技術を研究しております．また，[Hyperledger Cactus](https://www.hyperledger.org/use/cactus) のMaintainerとしてオープンソースソフトウェア開発にも参加しています．
+私はブロックチェーンセキュリティやブロックチェーンインターオペラビリティ等の研究に携わっております．また，[Hyperledger Cactus](https://www.hyperledger.org/use/cactus) のMaintainerとしてオープンソースソフトウェア開発にも参加しています．
 
 ## 研究分野・興味
 
