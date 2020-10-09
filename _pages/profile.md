@@ -8,7 +8,7 @@ redirect_from:
   - /profile.html
 ---
 
-My research interests include blockchain security, blockchain interoperability, and related problems.  I am also engaged in open source software development as a maintainer of [Hyperledger Cactus](https://www.hyperledger.org/use/cactus).
+My research interests include blockchain security, blockchain interoperability, and related problems.  I am also contributing in open source software development as a maintainer of [Hyperledger Cactus](https://www.hyperledger.org/use/cactus).
 
 ## Research interests
 
@@ -20,8 +20,8 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Education
 
-- Apr.2011--Mar.2013: M.S. in Informatics,  Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University, Japan. (Supervisor: [Prof. Yoshimasa Nakamura](http://www-is.amp.i.kyoto-u.ac.jp/lab/en/))
-- Apr.2009--Mar.2011: B.S. in Engineering, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo, Japan. (Supervisor: [Prof. Akimichi Takemura](http://www.akimichitakemura.com/athp/english/index.html))
+- Apr.2011--Mar.2013: M.S. in Informatics,  Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University, Japan.
+- Apr.2009--Mar.2011: B.S. in Engineering, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo, Japan.
 - Apr.2007--Mar.2009: Division of Natural Sciences I, College of Arts and Sciences, The University of Tokyo, Japan.
 
 ### Work experience
@@ -53,7 +53,7 @@ My research interests include blockchain security, blockchain interoperability, 
 ## Awards
 
 - **Best Idea and Use Case Award**, Smart Contract Japan 2016 Blockchain Hackathon, 2016.
-- **Student Excellence Presentation Award**, The 7th JSS Spring Meeting (The Japan Statistics Society), 2013.
+- **Student Excellent Presentation Award**, The 7th JSS Spring Meeting (The Japan Statistics Society), 2013.
 
 ## Links
 - [Fujitsu Laboratories Ltd.](https://www.fujitsu.com/jp/group/labs/en/)
