@@ -41,7 +41,7 @@ My research interests include blockchain security, blockchain interoperability, 
 ### Non-referred presentations
 
 - **Takuma Takeuchi**, Hiroto Sekido. "*An approximate approach to E-optimal designs for weighted polynomial regression by using Tchebycheff systems and orthogonal polynomials*" (**poster**), China-Japan Joint Workshop on Integrable Systems 2013, Japan, 2013.
-- **Takuma Takeuchi**, Hiroto Sekido. "*On the E-optimal design of weighted polynomial regression using the Tchebycheff system and orthogonal polynomials*" (**poster**), The 7th Annual Spring Meeting of The Japan Statistics Society, Japan, 2013.
+- **Takuma Takeuchi**, Hiroto Sekido. "*On the E-optimal design of weighted polynomial regression using the Tchebycheff system and orthogonal polynomials*" (**poster**), The 7th JSS Spring Meeting (The Japan Statistics Society), Japan, 2013.
 - **Takuma Takeuchi**, Ryuta Hashimoto, Daiji Aiura, Yin Xin, Takuya Kato, Kazuma Tsukamoto, Takeru Matsuda. "*5x5x5 Rubik Cube Solver and its subprogram with GAP*" (**presentation**), Risa/Asir Conference 2012, Japan, 2012.
 - **Takuma Takeuchi**, Fuyuhiko Tanaka. "*Hypothesis Testing of Quantum State Models with Disturbing Parameters*" (**presentation**), Japan Federation of Statistical Science Associations, Japan, 2011.
 
