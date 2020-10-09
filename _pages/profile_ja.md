@@ -4,7 +4,6 @@ title: "Takuma Takeuchi / 竹内琢磨"
 excerpt: "Profile_ja"
 author_profile: true
 redirect_from: 
-  - /profile_ja/
   - /profile_ja.html
 ---
 
