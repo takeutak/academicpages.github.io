@@ -51,7 +51,7 @@ redirect_from:
 
 ### オープンソースソフトウェア開発
 
-- [Hyperledger Cactus (GitHub)](https://github.com/hyperledger/cactus) - Maintainer (2020--現在)
+- [Hyperledger Cactus](https://www.hyperledger.org/use/cactus) - Maintainer (2020--現在)
 - [FujitsuLaboratories/ConnectionChain-sample (GitHub)](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
 
 ## 受賞
