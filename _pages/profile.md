@@ -33,21 +33,25 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Referred journals and conferences
 
-- Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA 2019), Spain, 2019.
+- Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
 - **Takuma Takeuchi**, Yoshiki Higashikado, Shingo Fujimoto. "*A secure cross-chain platform for business blockchain applications*" (**poster**), The 14th International Workshop on Security (IWSEC2019), Japan, 2019.
-- **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM 2017), India, 2017.
+- **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM2017), India, 2017.
 - Fuyuhiko Tanaka, **Takuma Takeuchi**. "*Hypothesis testing of a maximally entangled state under the unknown unitary process*" (**poster**), Quantum Information Processing 2012 (QIP2012), Canada, 2011.
 
 ### Non-referred presentations
 
 - **Takuma Takeuchi**, Hiroto Sekido. "*An approximate approach to E-optimal designs for weighted polynomial regression by using Tchebycheff systems and orthogonal polynomials*" (**poster**), China-Japan Joint Workshop on Integrable Systems 2013, Japan, 2013.
 - **Takuma Takeuchi**, Hiroto Sekido. "*On the E-optimal design of weighted polynomial regression using the Tchebycheff system and orthogonal polynomials*" (**poster**), The 7th JSS Spring Meeting (The Japan Statistics Society), Japan, 2013.
-- **Takuma Takeuchi**, Ryuta Hashimoto, Daiji Aiura, Yin Xin, Takuya Kato, Kazuma Tsukamoto, Takeru Matsuda. "*5x5x5 Rubik Cube Solver and its subprogram with GAP*" (**presentation**), Risa/Asir Conference 2012, Japan, 2012.
+- **Takuma Takeuchi**, Ryuta Hashimoto, Daishi Aiura, Yin Xin, Takuya Kato, Kazuma Tsukamoto, Takeru Matsuda. "*5x5x5 Rubik Cube Solver and its subprogram with GAP*" (**presentation**), Risa/Asir Conference 2012, Japan, 2012.
 - **Takuma Takeuchi**, Fuyuhiko Tanaka. "*Hypothesis Testing of Quantum State Models with Disturbing Parameters*" (**presentation**), Japan Federation of Statistical Science Associations, Japan, 2011.
+
+### Invited presentations
+
+- **Takuma Takeuchi**. "*Introducing the new Hyperledger Cactus project*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs&feature=youtu.be)]
 
 ### Open source software development
 
-- [Hyperledger Cactus (GitHub)](https://github.com/hyperledger/cactus) - Maintainer (2020--present)
+- [Hyperledger Cactus](https://www.hyperledger.org/use/cactus) - Maintainer (2020--present)
 - [FujitsuLaboratories/ConnectionChain-sample (GitHub)](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
 
 ## Awards

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Takuma Takeuchi"
   avatar           : "takeutak_profile.png"
-  bio              : "I am currently working as a researcher at Fujitsu Laboratories Ltd.  My research interests include blockchain security and blockchain interoperability."
+  bio              : "A researcher of blockchain security"
   location         : "Kawasaki, Japan"
   employer         : "Fujitsu Laboratories Ltd."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "(MyFamilyName).(MyFirstName)[at]fujitsu.com (Note that all characters are lowercase)"
+  email            : "takeuchi.takuma[at]fujitsu.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
