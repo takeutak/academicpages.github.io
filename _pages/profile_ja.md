@@ -26,8 +26,9 @@ redirect_from:
 
 ### 職歴
 
+- 2021年4月--現在: 研究員, 富士通株式会社．
 - 2020年5月--現在: Maintainer in Hyperledger Cactus, Hyperledger.
-- 2013年4月--現在: 研究員, 株式会社富士通研究所．
+- 2013年4月--2021年3月: 研究員, 株式会社富士通研究所．
 
 ## 研究開発業績
 
@@ -60,4 +61,4 @@ redirect_from:
 - **学生優秀発表賞**, 第7回日本統計学会春季集会, 2013.
 
 ## Links
-- [株式会社富士通研究所](https://www.fujitsu.com/jp/group/labs/)
+- [富士通研究所](https://www.fujitsu.com/jp/group/labs/)
