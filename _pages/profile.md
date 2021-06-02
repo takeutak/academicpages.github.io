@@ -48,7 +48,8 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Invited presentations
 
-- **Takuma Takeuchi**. "*Introducing the new Hyperledger Cactus project*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs&feature=youtu.be)]
+- **Takuma Takeuchi**. "*The Overview of Hyperledger Cactus V0.4 and its strategy for future development*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [Slideshare(English) is comming soon], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
+- **Takuma Takeuchi**. "*Introducing the new project, Hyperledger Cactus*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 
 ### Open source software development
 

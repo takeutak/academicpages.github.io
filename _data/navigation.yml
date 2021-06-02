@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "English"
-    url: /profile/
+    url: /
 
   - title: "Japanese"
-    url: /profile_ja/
+    url: /ja/
