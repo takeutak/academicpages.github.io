@@ -26,8 +26,9 @@ redirect_from:
 
 ### 職歴
 
-- 2021年4月--現在: 研究員, 富士通株式会社．
+- 2021年10月--現在: シニアリサーチャー, 富士通株式会社．
 - 2020年5月--現在: Maintainer in Hyperledger Cactus, Hyperledger.
+- 2021年4月--2021年9月: 研究員, 富士通株式会社．
 - 2013年4月--2021年3月: 研究員, 株式会社富士通研究所．
 
 ## 研究開発業績
@@ -48,6 +49,7 @@ redirect_from:
 
 ### 招待講演
 
+- **竹内琢磨**. "*富士通のセキュリティおよびブロックチェーンに関する研究の取り組み*" (**presentation**), 情報通信技術研究交流会 (AC Net), Online, 2021.
 - **竹内琢磨**. "*Hyperledger Cactus V0.4 リリースの概要と今後の開発方針*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **竹内琢磨**. "新プロジェクト Hyperledger Cactus のご紹介" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 

@@ -26,8 +26,9 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Work experience
 
-- Apr.2021--present: Researcher, Fujitsu Limited
+- Oct.2021--present: Senior Researcher, Fujitsu Limited
 - May.2020--present: Maintainer, Hyperledger Cactus, Hyperledger.
+- Apr.2021--Sep.2021: Researcher, Fujitsu Limited
 - Apr.2013--Mar.2021: Researcher, Fujitsu Laboratories Ltd.
 
 ## Research and development activities
@@ -48,7 +49,8 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Invited presentations
 
-- **Takuma Takeuchi**. "*The Overview of Hyperledger Cactus V0.4 and its plan for future development*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
+- **Takuma Takeuchi**. "*An introduction of research activity about security and blockchain on Fujitsu*" (**presentation**), Human Network for Researchers toward Advanced Telecommunications (AC Net), Online, 2021.
+- **Takuma Takeuchi**. "*The overview of Hyperledger Cactus V0.4 and its plan for future development*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **Takuma Takeuchi**. "*Introducing the new project, Hyperledger Cactus*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 
 ### Open source software development
