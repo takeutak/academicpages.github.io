@@ -27,7 +27,7 @@ redirect_from:
 ### 職歴
 
 - 2021年10月--現在: シニアリサーチャー, 富士通株式会社．
-- 2020年5月--現在: Maintainer in Hyperledger Cactus, Hyperledger.
+- 2020年5月--現在: Maintainer, Hyperledger Cactus, Hyperledger.
 - 2021年4月--2021年9月: 研究員, 富士通株式会社．
 - 2013年4月--2021年3月: 研究員, 株式会社富士通研究所．
 
