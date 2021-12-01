@@ -35,6 +35,7 @@ redirect_from:
 
 ### 査読付き雑誌・会議
 
+- **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022. -- Accepted and to be appeared
 - Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
 - **Takuma Takeuchi**, Yoshiki Higashikado, Shingo Fujimoto. "*A secure cross-chain platform for business blockchain applications*" (**poster**), The 14th International Workshop on Security (IWSEC2019), Japan, 2019.
 - **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM2017), India, 2017.
