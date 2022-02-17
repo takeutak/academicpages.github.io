@@ -26,6 +26,7 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Work experience
 
+- Jan.2022--present: Member of Research Staff, Fujitsu Research of America.
 - Oct.2021--present: Senior Researcher, Fujitsu Limited.
 - May.2020--present: Maintainer, Hyperledger Cactus, Hyperledger.
 - Apr.2021--Sep.2021: Researcher, Fujitsu Limited.
@@ -35,7 +36,8 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Referred journals and conferences
 
-- **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022. -- Accepted and to be appeared
+- Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado. "*Secure Blockchain Interworking Using Extended Smart Contract*" (**journal**), IEICE Transactions on Information and Systems 2022.
+- **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022.
 - Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
 - **Takuma Takeuchi**, Yoshiki Higashikado, Shingo Fujimoto. "*A secure cross-chain platform for business blockchain applications*" (**poster**), The 14th International Workshop on Security (IWSEC2019), Japan, 2019.
 - **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM2017), India, 2017.
@@ -66,3 +68,4 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ## Links
 - [Fujitsu Research](https://www.fujitsu.com/jp/group/labs/en/)
+- [Fujitsu Research of America](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/)
