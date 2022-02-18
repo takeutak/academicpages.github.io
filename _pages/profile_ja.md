@@ -26,11 +26,14 @@ redirect_from:
 
 ### 職歴
 
-- 2022年1月--現在: Member of Research Staff, Fujitsu Research of America.
-- 2021年10月--現在: シニアリサーチャー, 富士通株式会社．
-- 2020年5月--現在: Maintainer, Hyperledger Cactus, Hyperledger.
-- 2021年4月--2021年9月: 研究員, 富士通株式会社．
-- 2013年4月--2021年3月: 研究員, 株式会社富士通研究所．
+- 2013年4月--現在: 富士通株式会社
+  - 2021年10月--現在: シニアリサーチャー, 富士通株式会社
+  - 2021年4月--2021年9月: 研究員, 富士通株式会社
+  - 2013年4月--2021年3月: 研究員, 株式会社富士通研究所
+- 2022年1月--現在: Fujitsu Research of America
+  - 2022年1月--現在: Member of Research Staff, Fujitsu Research of America
+- 2020年5月--現在: Hyperledger
+  - 2020年5月--現在: Maintainer, Hyperledger Cactus, Hyperledger
 
 ## 研究開発業績
 
@@ -46,15 +49,15 @@ redirect_from:
 ### 査読なし発表
 
 - **竹内琢磨**, 關戸啓人. "*An approximate approach to E-optimal designs for weighted polynomial regression by using Tchebycheff systems and orthogonal polynomials*" (**poster**), China-Japan Joint Workshop on Integrable Systems 2013, Japan, 2013.
-- **竹内琢磨**, 關戸啓人. "Tchebycheff system と直交多項式を用いた重み付き多項式回帰の E-optimal design の解法について" (**poster**), 第7回日本統計学会春季集会, Japan, 2013.
-- **竹内琢磨**, 橋本竜太, 相浦大司, 殷信, 加藤拓哉, 塚本和磨, 松田孟留. "5×5×5ルービックキューブソルバ，およびGAPをサブプログラムとしたその解法" (**presentation**), Risa/Asir Conference 2012, Japan, 2012.
-- **竹内琢磨**, 田中冬彦. "撹乱母数を持つ量子状態モデルの仮説検定" (**presentation**), 2011年度統計関連学会連合大会, 2011.
+- **竹内琢磨**, 關戸啓人. "*Tchebycheff system と直交多項式を用いた重み付き多項式回帰の E-optimal design の解法について*" (**poster**), 第7回日本統計学会春季集会, Japan, 2013.
+- **竹内琢磨**, 橋本竜太, 相浦大司, 殷信, 加藤拓哉, 塚本和磨, 松田孟留. "*5×5×5ルービックキューブソルバ，およびGAPをサブプログラムとしたその解法*" (**presentation**), Risa/Asir Conference 2012, Japan, 2012.
+- **竹内琢磨**, 田中冬彦. "*撹乱母数を持つ量子状態モデルの仮説検定*" (**presentation**), 2011年度統計関連学会連合大会, 2011.
 
 ### 招待講演
 
 - **竹内琢磨**. "*富士通のセキュリティおよびブロックチェーンに関する研究の取り組み*" (**presentation**), 情報通信技術研究交流会 (AC Net), Online, 2021.
 - **竹内琢磨**. "*Hyperledger Cactus V0.4 リリースの概要と今後の開発方針*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
-- **竹内琢磨**. "新プロジェクト Hyperledger Cactus のご紹介" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
+- **竹内琢磨**. "*新プロジェクト Hyperledger Cactus のご紹介*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 
 ### オープンソースソフトウェア開発
 
