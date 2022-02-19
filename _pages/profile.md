@@ -20,9 +20,11 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Education
 
-- Apr.2011--Mar.2013: Master's degree of Informatics, Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University, Japan.
-- Apr.2009--Mar.2011: Bachelor's degree of Engineering, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo, Japan.
-- Apr.2007--Mar.2009: Division of Natural Sciences 1, College of Arts and Sciences, The University of Tokyo, Japan.
+- Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
+  - Apr.2011--Mar.2013: Master's degree of Informatics, Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
+- Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
+  - Apr.2009--Mar.2011: Bachelor's degree of Engineering, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo
+  - Apr.2007--Mar.2009: Division of Natural Sciences 1, College of Arts and Sciences, The University of Tokyo
 
 ### Work experience
 
@@ -30,8 +32,8 @@ My research interests include blockchain security, blockchain interoperability, 
   - Oct.2021--present: Senior Researcher, Fujitsu Limited
   - Apr.2021--Sep.2021: Researcher, Fujitsu Limited
   - Apr.2013--Mar.2021: Researcher, Fujitsu Laboratories Ltd.
-- Jan.2022--present: Fujitsu Research of America
-  - Jan.2022--present: Member of Research Staff, Fujitsu Research of America
+- Jan.2022--present: Fujitsu Research of America, Inc.
+  - Jan.2022--present: Member of Research Staff, Fujitsu Research of America, Inc.
 - May.2020--present: Hyperledger
   - May.2020--present: Maintainer, Hyperledger Cactus, Hyperledger
 
