@@ -21,9 +21,9 @@ My research interests include blockchain security, blockchain interoperability, 
 ### Education
 
 - Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
-  - Apr.2011--Mar.2013: Master's degree of Informatics, Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
+  - Apr.2011--Mar.2013: Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
 - Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
-  - Apr.2009--Mar.2011: Bachelor's degree of Engineering, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo
+  - Apr.2009--Mar.2011: Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo
   - Apr.2007--Mar.2009: Division of Natural Sciences 1, College of Arts and Sciences, The University of Tokyo
 
 ### Work experience
