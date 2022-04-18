@@ -63,6 +63,10 @@ redirect_from:
 - **竹内琢磨**. "*Hyperledger Cactus V0.4 リリースの概要と今後の開発方針*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **竹内琢磨**. "*新プロジェクト Hyperledger Cactus のご紹介*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 
+### 解説記事
+
+- Peter Somogyvari, **Takuma Takeuchi**: "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
+
 ### オープンソースソフトウェア開発
 
 - [Hyperledger Cactus](https://www.hyperledger.org/use/cactus) - Maintainer (2020--現在)
