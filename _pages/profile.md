@@ -29,7 +29,7 @@ My research interests include blockchain security, blockchain interoperability, 
 ### Work experience
 
 - Apr.2013--present: Fujitsu Limited
-  - Apr.2022--present: Manager, Fujitsu Research, Fujitsu Limited
+  - Apr.2022--present: Research Manager, Fujitsu Research, Fujitsu Limited
   - Oct.2021--Mar.2022: Senior Researcher, Fujitsu Research, Fujitsu Limited
   - Apr.2021--Sep.2021: Researcher, Fujitsu Research, Fujitsu Limited
   - Apr.2013--Mar.2021: Researcher, Fujitsu Laboratories Ltd.
