@@ -43,8 +43,8 @@ redirect_from:
 
 ### 査読付き雑誌・会議
 
-- **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022, Ireland, 2022.
-- Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022, Ireland, 2022.
+- **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022.
+- Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022.
 - Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado. "*Secure Blockchain Interworking Using Extended Smart Contract*" (**journal**), IEICE Transactions on Information and Systems 2022.
 - **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022.
 - Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
