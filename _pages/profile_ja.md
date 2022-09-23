@@ -8,7 +8,7 @@ redirect_from:
   - /profile_ja.html
 ---
 
-私はブロックチェーンセキュリティやブロックチェーンインターオペラビリティ等の研究に携わっております．また，[Hyperledger Cactus](https://www.hyperledger.org/use/cactus) のMaintainerとしてオープンソースソフトウェア開発にも貢献しています．
+私はブロックチェーンセキュリティやブロックチェーンインターオペラビリティ等の諸問題に対し，研究およびオープンソース開発活動を活かして取り組んでいます．
 
 ## 研究分野・興味
 
@@ -37,7 +37,8 @@ redirect_from:
   - 2022年4月--現在: Research Manager, Fujitsu Research of America, Inc.
   - 2022年1月--2022年3月: Member of Research Staff, Fujitsu Research of America, Inc.
 - 2020年5月--現在: Hyperledger
-  - 2020年5月--現在: Maintainer, Hyperledger Cactus, Hyperledger
+  - 2022年9月--現在: Project Maintainer, Hyperledger Cacti, Hyperledger
+  - 2020年5月--2022年9月: Project Maintainer, Hyperledger Cactus, Hyperledger
 
 ## 研究開発業績
 
@@ -71,8 +72,8 @@ redirect_from:
 
 ### オープンソースソフトウェア開発
 
-- [Hyperledger Cactus](https://www.hyperledger.org/use/cactus) - Maintainer (2020--現在)
-- [FujitsuLaboratories/ConnectionChain-sample (GitHub)](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
+- [Hyperledger Cacti (Cactus)](https://www.hyperledger.org/use/cactus) - Maintainer (2020--現在)
+- [FujitsuLaboratories/ConnectionChain-sample](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
 
 ## 受賞
 

@@ -8,7 +8,7 @@ redirect_from:
   - /profile.html
 ---
 
-My research interests include blockchain security, blockchain interoperability, and related problems.  I am also contributing in open source software development as a maintainer of [Hyperledger Cactus](https://www.hyperledger.org/use/cactus).
+My research interests include blockchain security, blockchain interoperability, and related issues.  Currently, I am approaching these issues with research and open source development activities.
 
 ## Research interests
 
@@ -37,7 +37,8 @@ My research interests include blockchain security, blockchain interoperability, 
   - Apr.2022--present: Research Manager, Fujitsu Research of America, Inc.
   - Jan.2022--Mar.2022: Member of Research Staff, Fujitsu Research of America, Inc.
 - May.2020--present: Hyperledger
-  - May.2020--present: Maintainer, Hyperledger Cactus, Hyperledger
+  - Sep.2022--present: Project Maintainer, Hyperledger Cacti, Hyperledger
+  - May.2020--Sep.2022: Project Maintainer, Hyperledger Cactus, Hyperledger
 
 ## Research and development activities
 
@@ -71,13 +72,13 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Open source software development
 
-- [Hyperledger Cactus](https://www.hyperledger.org/use/cactus) - Maintainer (2020--present)
-- [FujitsuLaboratories/ConnectionChain-sample (GitHub)](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
+- [Hyperledger Cacti (Cactus)](https://www.hyperledger.org/use/cactus) - Project Maintainer (2020--present)
+- [FujitsuLaboratories/ConnectionChain-sample](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
 
 ## Awards
 
 - **Best Idea and Use Case Award**, Smart Contract Japan 2016 Blockchain Hackathon, 2016.
-- **Student Excellent Presentation Award**, The 7th JSS Spring Meeting (The Japan Statistics Society), 2013.
+- **Student Excellent Presentation Award**, The 7th JSS Spring Meeting (Japan Statistical Society), 2013.
 
 ## Links
 - [Fujitsu Research](https://www.fujitsu.com/jp/group/labs/en/)
