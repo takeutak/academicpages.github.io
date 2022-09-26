@@ -1,6 +1,6 @@
 ---
 permalink: /ja/
-title: "Takuma Takeuchi / 竹内琢磨"
+title: "Takuma Takeuchi / 竹内 琢磨"
 excerpt: "Profile_ja"
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
 
 ## 履歴
 
-### 教育歴
+### 学歴
 
 - 2011年4月--2013年3月: 修士（情報学） 京都大学
   - 2011年4月--2013年3月: 京都大学大学院 情報学研究科 数理工学専攻
