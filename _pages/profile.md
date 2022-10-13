@@ -36,9 +36,11 @@ My research interests include blockchain security, blockchain interoperability, 
 - Jan.2022--present: Fujitsu Research of America, Inc.
   - Apr.2022--present: Research Manager, Fujitsu Research of America, Inc.
   - Jan.2022--Mar.2022: Member of Research Staff, Fujitsu Research of America, Inc.
-- May.2020--present: Hyperledger
+- May.2020--present: Hyperledger Foundation
   - Sep.2022--present: Project Maintainer, Hyperledger Cacti, Hyperledger
   - May.2020--Sep.2022: Project Maintainer, Hyperledger Cactus, Hyperledger
+- Sep.2010--Mar.2011: Bioinformatics Institute for Global Good, Inc.
+  - Sep.2010--Mar.2011: Software Engineer Intern, Bioinformatics Institute for Global Good, Inc.
 
 ## Research and development activities
 

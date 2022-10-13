@@ -36,9 +36,11 @@ redirect_from:
 - 2022年1月--現在: Fujitsu Research of America, Inc.
   - 2022年4月--現在: Research Manager, Fujitsu Research of America, Inc.
   - 2022年1月--2022年3月: Member of Research Staff, Fujitsu Research of America, Inc.
-- 2020年5月--現在: Hyperledger
+- 2020年5月--現在: Hyperledger Foundation
   - 2022年9月--現在: Project Maintainer, Hyperledger Cacti, Hyperledger
   - 2020年5月--2022年9月: Project Maintainer, Hyperledger Cactus, Hyperledger
+- 2010年9月--2011年3月: 株式会社国際バイオインフォマティクス研究所
+  - 2010年9月--2011年3月: ソフトウェアエンジニア（インターン）, 株式会社国際バイオインフォマティクス研究所
 
 ## 研究開発業績
 
