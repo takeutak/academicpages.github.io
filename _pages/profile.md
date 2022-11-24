@@ -29,12 +29,12 @@ My research interests include blockchain security, blockchain interoperability, 
 ### Work experience
 
 - Apr.2013--present: Fujitsu Limited
-  - Apr.2022--present: Research Manager, Fujitsu Research, Fujitsu Limited
+  - Apr.2022--present: Research Scientist (Manager), Fujitsu Research, Fujitsu Limited
   - Oct.2021--Mar.2022: Senior Researcher, Fujitsu Research, Fujitsu Limited
   - Apr.2021--Sep.2021: Researcher, Fujitsu Research, Fujitsu Limited
   - Apr.2013--Mar.2021: Researcher, Fujitsu Laboratories Ltd.
 - Jan.2022--present: Fujitsu Research of America, Inc.
-  - Apr.2022--present: Research Manager, Fujitsu Research of America, Inc.
+  - Apr.2022--present: Research Scientist (Manager), Fujitsu Research of America, Inc.
   - Jan.2022--Mar.2022: Member of Research Staff, Fujitsu Research of America, Inc.
 - May.2020--present: Hyperledger Foundation
   - Sep.2022--present: Project Maintainer, Hyperledger Cacti, Hyperledger

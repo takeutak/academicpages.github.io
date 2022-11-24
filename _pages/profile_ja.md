@@ -34,7 +34,7 @@ redirect_from:
   - 2021年4月--2021年9月: 研究員, 富士通研究所, 富士通株式会社
   - 2013年4月--2021年3月: 研究員, 株式会社富士通研究所
 - 2022年1月--現在: Fujitsu Research of America, Inc.
-  - 2022年4月--現在: Research Manager, Fujitsu Research of America, Inc.
+  - 2022年4月--現在: Research Scientist (Manager), Fujitsu Research of America, Inc.
   - 2022年1月--2022年3月: Member of Research Staff, Fujitsu Research of America, Inc.
 - 2020年5月--現在: Hyperledger Foundation
   - 2022年9月--現在: Project Maintainer, Hyperledger Cacti, Hyperledger
