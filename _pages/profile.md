@@ -40,7 +40,7 @@ My research interests include blockchain security, blockchain interoperability, 
   - Sep.2022--present: Project Maintainer, Hyperledger Cacti, Hyperledger
   - May.2020--Sep.2022: Project Maintainer, Hyperledger Cactus, Hyperledger
 - Sep.2010--Mar.2011: Bioinformatics Institute for Global Good, Inc.
-  - Sep.2010--Mar.2011: Software Engineer Intern, Bioinformatics Institute for Global Good, Inc.
+  - Sep.2010--Mar.2011: Part-time Software Developer, Bioinformatics Institute for Global Good, Inc.
 
 ## Research and development activities
 
@@ -81,7 +81,7 @@ My research interests include blockchain security, blockchain interoperability, 
 ## Awards
 
 - **Best Idea and Use Case Award**, Smart Contract Japan 2016 Blockchain Hackathon, 2016.
-- **Student Excellent Presentation Award**, The 7th JSS Spring Meeting (Japan Statistical Society), 2013.
+- **Best Student Presentation Award**, The 7th JSS Spring Meeting (Japan Statistical Society), 2013.
 
 ## Links
 - [Fujitsu Research](https://www.fujitsu.com/jp/group/labs/en/)
