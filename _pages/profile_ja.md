@@ -18,14 +18,6 @@ redirect_from:
 
 ## 履歴
 
-### 学歴
-
-- 2011年4月--2013年3月: 修士（情報学） 京都大学
-  - 2011年4月--2013年3月: 京都大学大学院 情報学研究科 数理工学専攻
-- 2007年4月--2011年3月: 学士（工学） 東京大学
-  - 2009年4月--2011年3月: 東京大学 工学部 計数工学科 数理情報工学コース
-  - 2007年4月--2009年3月: 東京大学 教養学部 理科一類
-
 ### 職歴
 
 - 2013年4月--現在: 富士通株式会社
@@ -41,6 +33,14 @@ redirect_from:
   - 2020年5月--2022年9月: Project Maintainer, Hyperledger Cactus, Hyperledger
 - 2010年9月--2011年3月: 株式会社国際バイオインフォマティクス研究所
   - 2010年9月--2011年3月: ソフトウェアエンジニア（パートタイム）, 株式会社国際バイオインフォマティクス研究所
+
+### 学歴
+
+- 2011年4月--2013年3月: 修士（情報学） 京都大学
+  - 2011年4月--2013年3月: 京都大学大学院 情報学研究科 数理工学専攻
+- 2007年4月--2011年3月: 学士（工学） 東京大学
+  - 2009年4月--2011年3月: 東京大学 工学部 計数工学科 数理情報工学コース
+  - 2007年4月--2009年3月: 東京大学 教養学部 理科一類
 
 ## 研究開発業績
 
@@ -68,10 +68,14 @@ redirect_from:
 - **竹内琢磨**. "*Hyperledger Cactus V0.4 リリースの概要と今後の開発方針*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **竹内琢磨**. "*新プロジェクト Hyperledger Cactus のご紹介*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 
-### 解説記事
+### 技術記事
 
 - Peter Somogyvari, Jagpreet Singh Sasan, Izuru Sato, **Takuma Takeuchi**, Venkatraman Ramakrishna, Sandeep Nishad, Krishnasuri Narayanam, Dhinakaran Vinayagamurthy: "*Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/11/07/introducing-hyperledger-cacti-a-multi-faceted-pluggable-interoperability-framework)]
 - Peter Somogyvari, **Takuma Takeuchi**: "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
+
+### 取材記事
+
+- **竹内琢磨**: "*異分野の技術を重ね合わせることによって新たな繋がりを生む技術を作りたい*" (**interview blog**), 研究者の夢, 富士通研究所, 2022. [[Blog](https://www.fujitsu.com/jp/about/research/article/202206-dream-03.html)]
 
 ### オープンソースソフトウェア開発
 
@@ -84,5 +88,5 @@ redirect_from:
 - **学生優秀発表賞**, 第7回日本統計学会春季集会, 2013.
 
 ## Links
-- [富士通研究所](https://www.fujitsu.com/jp/group/labs/)
+- [富士通研究所](https://www.fujitsu.com/jp/about/research/)
 - [Fujitsu Research of America](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/)

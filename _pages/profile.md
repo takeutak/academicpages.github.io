@@ -18,14 +18,6 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ## Curriculum vitae
 
-### Education
-
-- Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
-  - Apr.2011--Mar.2013: Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
-- Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
-  - Apr.2009--Mar.2011: Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo
-  - Apr.2007--Mar.2009: Division of Natural Sciences 1, College of Arts and Sciences, The University of Tokyo
-
 ### Work experience
 
 - Apr.2013--present: Fujitsu Limited
@@ -41,6 +33,14 @@ My research interests include blockchain security, blockchain interoperability, 
   - May.2020--Sep.2022: Project Maintainer, Hyperledger Cactus, Hyperledger
 - Sep.2010--Mar.2011: Bioinformatics Institute for Global Good, Inc.
   - Sep.2010--Mar.2011: Part-time Software Developer, Bioinformatics Institute for Global Good, Inc.
+
+### Education
+
+- Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
+  - Apr.2011--Mar.2013: Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
+- Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
+  - Apr.2009--Mar.2011: Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo
+  - Apr.2007--Mar.2009: Division of Natural Sciences 1, College of Arts and Sciences, The University of Tokyo
 
 ## Research and development activities
 
@@ -68,10 +68,14 @@ My research interests include blockchain security, blockchain interoperability, 
 - **Takuma Takeuchi**. "*The overview of Hyperledger Cactus V0.4 and its plan for future development*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **Takuma Takeuchi**. "*An introduction to the new project, Hyperledger Cactus*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
 
-### Articles
+### Technical articles
 
 - Peter Somogyvari, Jagpreet Singh Sasan, Izuru Sato, **Takuma Takeuchi**, Venkatraman Ramakrishna, Sandeep Nishad, Krishnasuri Narayanam, Dhinakaran Vinayagamurthy: "*Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/11/07/introducing-hyperledger-cacti-a-multi-faceted-pluggable-interoperability-framework)]
 - Peter Somogyvari, **Takuma Takeuchi**: "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
+
+### Interview articles
+
+- **Takuma Takeuchi**: "*Thinking outside of the box – focusing on boundaries between multiple heterogeneous technologies to build new attractive technology*" (**interview blog**), Researcher's Dream, Fujitsu Research, 2022. [[Blog](https://www.fujitsu.com/global/about/research/article/202206-dream-03.html)]
 
 ### Open source software development
 
@@ -84,5 +88,5 @@ My research interests include blockchain security, blockchain interoperability, 
 - **Best Student Presentation Award**, The 7th JSS Spring Meeting (Japan Statistical Society), 2013.
 
 ## Links
-- [Fujitsu Research](https://www.fujitsu.com/jp/group/labs/en/)
+- [Fujitsu Research](https://www.fujitsu.com/global/about/research/)
 - [Fujitsu Research of America](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/)
