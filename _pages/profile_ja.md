@@ -93,3 +93,4 @@ redirect_from:
 ## Links
 - [富士通研究所](https://www.fujitsu.com/jp/about/research/)
 - [Fujitsu Research of America](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/)
+- [Fujitsu Research of Europe](https://www.fujitsu.com/uk/about/local/corporate/subsidiaries/fle/)
